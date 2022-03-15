@@ -162,14 +162,4 @@ if(@$_GET['acao'] == $item1){
 
 
 
-<?php 
-/*
 
-//EXECUTAR UM LINK HREF COM SCRIPT
-if(isset($_GET['btnbuscarMedicos'])){ ?>
-
-<script type="text/javascript">
-	$('#link-medicos').click();
-</script>
-
-<?php } */ ?>
